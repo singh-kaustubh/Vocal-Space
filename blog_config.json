@@ -1,0 +1,17 @@
+{
+    "params": {
+        "local_server": "TRUE",
+        "local_uri": "mysql+pymysql://root@localhost/coding space",
+        "prod_uri": "mysql+pymysql://root@localhost/coding space",
+        "fb_url": "https://www.facebook.com",
+        "gb_url": "https://github.com/",
+        "tw_url": "https://twitter.com/",
+        "gmail_user": "admin@gmail.com",
+        "gmail_pass": "pass@gmail.com",
+        "blog_name": "Coding Space",
+        "no_of_posts": 4,
+        "admin_id": "admin123",
+        "admin_pass": "pass123",
+        "upload_location": "C:\\Users\\91844\\Documents\\CP\\Flask files\\static"
+    }
+}
