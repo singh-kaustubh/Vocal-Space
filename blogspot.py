@@ -16,7 +16,7 @@ from sqlalchemy import false
 import math
 
 local_server = True
-with open('blog_config.json', 'r') as c:
+with open('C:\\Users\\91844\\Documents\\CP\\Flask files\\blog_config.json', 'r') as c:
     params = json.load(c)["params"]
 app = Flask(__name__)
 app.secret_key = "Your_secret_string"
